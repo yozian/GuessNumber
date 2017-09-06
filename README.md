@@ -1,9 +1,9 @@
-##compile for fortran
+## Compile for fortran
 
-f95 guessNumber.f
+ f95 guessNumber.f
 
 
-##compile for c++
+## Compile for c++
 
  g++ guessNumber.cpp
 
@@ -11,4 +11,4 @@ f95 guessNumber.f
  很久以前無聊寫的~~
 
 
- ###All RIGHTS ARE OPENED!
+ ### All RIGHTS ARE OPENED!
